@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my page. I'm currently a student at the University of Minnesota pursuing a career in Networking.
+I'm looking to collaborate on projects specifically around networking, or anything. My pronouns are He/Him. 
+A fun fact about me is that I have never watched Ratatouille.
+
